@@ -1,0 +1,15 @@
+.navbar-brand, .nav-link, .navbar-toggler{
+    color: #ffffff!important;
+}
+
+.footer .text-body{
+    color: #ffffff!important;
+}
+
+body{
+    background: #f1d5fe !important;
+}
+
+.table, .thead, .th {
+    background: #e6b0ff !important;
+}
